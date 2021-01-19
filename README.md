@@ -1,25 +1,25 @@
 
-# FYMusicBot
+# 🤖 FYMusicBot
 > FYMusicBot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide) [BASED ON EVOBOT]
 
 
 ## 📝 Features & Commands
 
-> Note: The prefix is '/'
+> Note: The default prefix is '/'
 
-* Play music from YouTube via url
+* 🎶 Play music from YouTube via url
 
 `/play https://www.youtube.com/watch?v=GLvohMXgcBo`
 
-* Play music from YouTube via search query
+* 🔎 Play music from YouTube via search query
 
 `/play under the bridge red hot chili peppers`
 
-* Play music from Soundcloud via url
+* 🎶 Play music from Soundcloud via url
 
 `/play https://soundcloud.com/blackhorsebrigade/pearl-jam-alive`
 
-* Search and select music to play
+* 🔎 Search and select music to play
 
 `/search Pearl Jam`
 
@@ -27,11 +27,11 @@ Reply with song number or numbers seperated by comma that you wish to play
 
 Examples: `1` or `1,2,3`
 
-* Play youtube playlists via url
+* 📃 Play youtube playlists via url
 
 `/playlist https://www.youtube.com/watch?v=YlUKcNNmywk&list=PL5RNCwK3GIO13SR_o57bGJCEmqFAwq82c`
 
-* Play youtube playlists via search query
+* 🔎 Play youtube playlists via search query
 
 `/playlist linkin park meteora`
 * Now Playing (/np)
@@ -49,6 +49,16 @@ Examples: `1` or `1,2,3`
 * Help (/help, /h)
 * Command Handler from [discordjs.guide](https://discordjs.guide/)
 * Media Controls via Reactions
+![reactions](https://i.imgur.com/j7CevsH.png)
+
+## 🤝 Contributing
+
+1. [Fork the repository](https://github.com/eritislami/evobot/fork)
+2. Clone your fork: `git clone https://github.com/your-username/evobot.git`
+3. Create your feature branch: `git checkout -b my-new-feature`
+4. Commit your changes: `git commit -am 'Add some feature'`
+5. Push to the branch: `git push origin my-new-feature`
+6. Submit a pull request
 
 ## 📝 Credits
 
