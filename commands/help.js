@@ -19,9 +19,9 @@ module.exports = {
         true
       );
     });
-
     helpEmbed.setTimestamp();
-
+    helpEmbed.setFooter('The FY Bot was created by Eli Rickard, under the MIT License; using the Evo, Node and Discord.js frameworks.')
     return message.channel.send(helpEmbed).catch(console.error);
   }
+  
 };
