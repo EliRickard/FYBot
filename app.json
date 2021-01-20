@@ -1,7 +1,7 @@
 {
-  "name": "EvoBot",
-  "description": "🤖 Discord Music Bot built with discord.js",
-  "repository": "https://github.com/eritislami/evobot",
-  "logo": "https://i.imgur.com/JFxgbWH.png",
+  "name": "FYBot",
+  "description": "Discord Music Bot built with discord.js using the Evo framework.",
+  "repository": "https://github.com/EliRickard/FYBot",
+  "logo": "",
   "keywords": ["discord", "discordjs", "music", "bot"]
 }

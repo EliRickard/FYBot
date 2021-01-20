@@ -1,66 +1,26 @@
 
-# 🤖 FYMusicBot
-> FYMusicBot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide) [BASED ON EVOBOT]
+# FYBot
+> FYMusicBot is a Discord Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide) 
+[BASED ON EVO FRAMEWORK]
 
 
 ## 📝 Features & Commands
 
-> Note: The default prefix is '/'
+> Note: The prefix is '!'
 
-* 🎶 Play music from YouTube via url
+* Play music from YouTube via url
 
-`/play https://www.youtube.com/watch?v=GLvohMXgcBo`
+`!play https://www.youtube.com/watch?v=GLvohMXgcBo`
 
-* 🔎 Play music from YouTube via search query
+* Play music from YouTube via search query
 
-`/play under the bridge red hot chili peppers`
+`!play under the bridge red hot chili peppers`
 
-* 🎶 Play music from Soundcloud via url
+* Search and select music to play
 
-`/play https://soundcloud.com/blackhorsebrigade/pearl-jam-alive`
-
-* 🔎 Search and select music to play
-
-`/search Pearl Jam`
-
-Reply with song number or numbers seperated by comma that you wish to play
-
-Examples: `1` or `1,2,3`
-
-* 📃 Play youtube playlists via url
-
-`/playlist https://www.youtube.com/watch?v=YlUKcNNmywk&list=PL5RNCwK3GIO13SR_o57bGJCEmqFAwq82c`
-
-* 🔎 Play youtube playlists via search query
-
-`/playlist linkin park meteora`
-* Now Playing (/np)
-* Queue system (/queue, /q)
-* Loop / Repeat (/loop)
-* Shuffle (/shuffle)
-* Volume control (/volume, /v)
-* Lyrics (/lyrics, /ly)
-* Pause (/pause)
-* Resume (/resume, /r)
-* Skip (/skip, /s)
-* Skip to song # in queue (/skipto, /st)
-* Remove song # from queue (/remove, /rm)
-* Toggle pruning of bot messages (/pruning)
-* Help (/help, /h)
-* Command Handler from [discordjs.guide](https://discordjs.guide/)
-* Media Controls via Reactions
-![reactions](https://i.imgur.com/j7CevsH.png)
-
-## 🤝 Contributing
-
-1. [Fork the repository](https://github.com/eritislami/evobot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/evobot.git`
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Commit your changes: `git commit -am 'Add some feature'`
-5. Push to the branch: `git push origin my-new-feature`
-6. Submit a pull request
+`!search Pearl Jam`
 
 ## 📝 Credits
 
-EVO BOT https://github.com/eritislami/evobot
-[@iCrawl](https://github.com/iCrawl) For the queue system used in this application which was adapted from [@iCrawl/discord-music-bot](https://github.com/iCrawl/discord-music-bot)
+[EVO](https://github.com/eritislami/evobot)
+[@iCrawl](https://github.com/iCrawl) For the queue system used in music system which was adapted from [@iCrawl/discord-music-bot](https://github.com/iCrawl/discord-music-bot)
